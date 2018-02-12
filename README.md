@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image1]: ./dlnd/nd101.pdf "DLND certificate"
-[image2]: ./aind/nd889.pdf "AIND certificate"
+[image1]: ./dlnd/nd101.png "DLND certificate"
+[image2]: ./aind/nd889.png "AIND certificate"
 
 
 # Udacity Nanodegree projects
